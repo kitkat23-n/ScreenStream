@@ -2,20 +2,25 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Níže najdete seznam verzí tohoto projektu, které jsou aktuálně podporovány a dostávají bezpečnostní aktualizace.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Verze         | Podporována           |
+| ------------- |:--------------------:|
+| poslední      | ✔️                   |
+| starší verze  | ❌                   |
 
-## Reporting a Vulnerability
+## Hlášení bezpečnostních chyb
 
-Use this section to tell people how to report a vulnerability.
+Pokud objevíte bezpečnostní zranitelnost, prosím NEVYTVÁŘEJTE veřejný issue.  
+Místo toho nás kontaktujte e-mailem na adresu: [VAŠE_EMAIL@ADRESA](mailto:VAŠE_EMAIL@ADRESA).
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+- Popište problém co nejpodrobněji.
+- Přiložte pokud možno návod, jak chybu reprodukovat.
+- My ji co nejdříve prověříme a dáme vám vědět.
+
+Všem, kdo nahlásí bezpečnostní problém, děkujeme za spolupráci a pomoc s ochranou tohoto projektu!
+
+## Další informace
+
+- Pro obecné bugy nebo návrhy použijte GitHub Issues.
+- Pro bezpečnostní chyby používejte pouze výše uvedený kontaktní e-mail.
